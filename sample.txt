@@ -1,0 +1,10 @@
+The Quick Brown Fox Jumps Over The Lazy Dog.
+Hello World! This is a Sample Text File for testing the Distributed Job Queue.
+Hello again World. The fox is Quick and the Dog is Lazy.
+Networks are Fascinating. Socket Programming is the Foundation of Network Communication.
+Hello Network Hello Socket Hello World.
+The Distributed System processes Jobs using a Queue.
+Each Worker handles one Job at a Time.
+The Dispatcher assigns Jobs to Workers efficiently.
+Hello Hello Hello World World.
+Socket Programming with TCP ensures Reliable Data Transfer.
